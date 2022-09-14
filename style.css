@@ -1,0 +1,71 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+    background-image: url(bg1.jpg);
+    background-size: cover;
+
+}
+.transbox {
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    width: 1450px;
+    height: 720px;
+    margin: 108px auto 0 auto;
+    background-color: #ffffff;
+    text-align:center;
+    opacity: 0.8;
+
+}
+.box-top{
+    width: 1450px;
+    height: 60px;
+    margin: 108px auto auto auto;
+    background-color: #f5e8f8;
+    text-align:center;
+
+}
+.title{
+    color: black;
+    padding-top: 0.5px;
+}
+
+.text-m{
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    padding-top: 15px;
+    padding-right: 1250px;
+
+}
+
+
+.pic-tap {
+	width: 420px;
+    height: 587px;
+    margin-left: 10px;
+    margin-top: 10px;
+
+}
+
+.t-rit {
+	float: right;
+	text-align: left;
+    line-height: 80px;
+    padding-right: 540px;
+    padding-top: 10px;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkorchid;
+
+}
+
+.text-b{
+    float: right;
+    padding-left:30px;
+    padding-top: 500px;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(246, 131, 85);
+
+}
